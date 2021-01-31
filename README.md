@@ -1,5 +1,5 @@
 # 01-02-01-adat-megjelenites
-Egy adat megjelenítése
+**Egy adat megjelenítése**
 ## 1. feladat
 CompanysMonthlyResultProject<br />
 Adott a következő programrészlet:<br />
