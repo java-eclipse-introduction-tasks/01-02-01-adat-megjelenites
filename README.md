@@ -5,7 +5,7 @@ CompanysMonthlyResultProject<br />
 Adott a következő programrészlet:<br />
 int bevetel=3000;<br />
 int kiadas=2000;<br />
-int eredmen=bevetel-kiada;<br />
+int eredmeny=bevetel-kiada;<br />
 Adja meg azt az utasítást, amely kiírja a c változó értékét a következő formában:” A havi eredmény 1000 forint.”<br />
 ## 2. feladat
 RoomDistrictProject<br />
